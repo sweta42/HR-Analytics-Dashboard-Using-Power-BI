@@ -1,8 +1,8 @@
 # HR-Analytics-Dashboard-Using-Power-BI
 This repository contains a Power BI dashboard focused on HR Analytics, created to visualize and monitor key performance indicators (KPIs) related to Human Resource functions.
 
-##📊 File Description
--Filename: KPI and Dashboarding- HR Analytics - 2025_03_17.pbix
+# 📊 File Description
+ - Filename: KPI and Dashboarding- HR Analytics - 2025_03_17.pbix
 
 Tool Used: Microsoft Power BI
 
