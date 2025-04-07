@@ -40,7 +40,9 @@ To explore the dashboard:
 
 ### 📁 Repository Structure
 📦 KPI-and-Dashboarding-HR-Analytics
+
  ┣ 📄 KPI and Dashboarding- HR Analytics - 2025_03_17.pbix
+ 
  ┗ 📄 README.md
  
 ### 📌 Requirements
